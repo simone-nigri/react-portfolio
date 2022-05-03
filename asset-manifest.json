@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.2177d77b.css",
+    "main.js": "/react-portfolio/static/js/main.fe239e34.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neue.ttf": "/react-portfolio/static/media/helvetica-neue.9dbbc9db793f1cc4fc13.ttf",
+    "static/media/la-belle-aurore.woff2": "/react-portfolio/static/media/la-belle-aurore.115e6bfc2740d313c4d6.woff2",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.bfc9f81846bda5218dab.png",
+    "static/media/coolvetica.woff2": "/react-portfolio/static/media/coolvetica.353b1208050a3a2ed78d.woff2",
+    "index.html": "/react-portfolio/index.html",
+    "main.2177d77b.css.map": "/react-portfolio/static/css/main.2177d77b.css.map",
+    "main.fe239e34.js.map": "/react-portfolio/static/js/main.fe239e34.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2177d77b.css",
+    "static/js/main.fe239e34.js"
+  ]
+}
